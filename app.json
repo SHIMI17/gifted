@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {Gifted~72xwFBRb#SGbWDydoMW4P06_1_OTvbp_L2zOvJpOcqt4IBM6_r1g}
+    "SESSION_ID": {Gifted~qqo2jCoS#344dvjMGgKg8QFyVGidAkCJmuzXzPuXQ0WmGIGEii_o
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
       "value": "false"
