@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~72xwFBRb#SGbWDydoMW4P06_1_OTvbp_L2zOvJpOcqt4IBM6_r1g
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
       "value": "false"
@@ -27,7 +27,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 2547xxxxx",
       "required": true,
-      "value": ""
+      "value": "27739864702"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
@@ -41,7 +41,7 @@
     },
     "AUTOLIKE_STATUS": {
       "description": "Make it 'true' if you want bot to read and like statuses",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_EMOJI": {
@@ -71,13 +71,13 @@
     },
     "WELCOME": {
       "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "welcome fellow member"
     },
     "GOODBYE": {
       "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "we will dearly not miss u"
     },
     "AUTO_AUDIO": {
       "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",
